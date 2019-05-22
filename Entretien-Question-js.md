@@ -165,45 +165,44 @@
 
 35. **Form properties and methods**
 
-35. **Numbers**
+35. **Focusing: focus/blur**
 
-35. **Numbers**
+35. **Events: change, input, cut, copy, paste**
 
-35. **Numbers**
+35. **Form submission: event and method submit**
 
-35. **Numbers**
+35. **Page: DOMContentLoaded, load, beforeunload, unload**
 
-35. **Numbers**
+35. **Scripts: async, defer**
 
-35. **Numbers**
+35. **Resource loading: onload and onerror**
 
-35. **Numbers**
+35. **Popups and window methods**
 
-35. **Numbers**
+35. **Cross-window communication**
 
-35. **Numbers**
+35. **The clickjacking attack**
 
-35. **Numbers**
+35. **Fetch: Basics**
 
-35. **Numbers**
+35. **Fetch: Abort**
 
-35. **Numbers**
+35. **Fetch: Cross-Origin Requests**
 
-35. **Numbers**
+35. **Fetch API**
 
-35. **Numbers**
+35. **ULR objects**
 
-35. **Numbers**
+35. **XMLHttpRequest**
 
-35. **Numbers**
+35. **WebSocket**
 
-35. **Numbers**
+35. **Cookies, document.cookie**
 
-35. **Numbers**
+35. **LocalStorage, sessionStorage**
 
-35. **Numbers**
+35. **IndexedDB**
 
-35. **Numbers**
 
 
 
