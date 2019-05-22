@@ -99,27 +99,27 @@
 
 49. **Prototype methods, objects without__proto__**
 
-35. **Class basic syntax**
+50. **Class basic syntax**
 
-35. **Numbers**
+51. **Class inheritance**
 
-35. **Numbers**
+52. **Static properties and methods**
 
-35. **Numbers**
+53. **Private and protected properties and methods**
 
-35. **Numbers**
+54. **Extending built-in classes**
 
-35. **Numbers**
+55. **Class checking:"instanceof"**
 
-35. **Numbers**
+56. **Mixins**
 
-35. **Numbers**
+57. **Error handling , "try..catch"**
 
-35. **Numbers**
+58. **Custom errors extending Error**
 
-35. **Numbers**
+59. **Introduction: callbacks**
 
-35. **Numbers**
+60. **Promise**
 
 35. **Numbers**
 
