@@ -141,29 +141,29 @@
 
 35. **Export and Import**
 
-35. **Numbers**
+35. **Dynamic imports**
 
-35. **Numbers**
+35. **Introduction to browser events**
 
-35. **Numbers**
+35. **Bubbling and capturing**
 
-35. **Numbers**
+35. **Event delegation**
 
-35. **Numbers**
+35. **Browser default actions**
 
-35. **Numbers**
+35. **Dispatching custom events**
 
-35. **Numbers**
+35. **Mouse events basics**
 
-35. **Numbers**
+35. **Moving: mouseover/out, mouseenter/leave**
 
-35. **Numbers**
+35. **Drag 'n' Drop with mouse events**
 
-35. **Numbers**
+35. **Keyboard: keydown and keyup**
 
-35. **Numbers**
+35. **Scrolling**
 
-35. **Numbers**
+35. **Form properties and methods**
 
 35. **Numbers**
 
