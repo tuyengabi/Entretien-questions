@@ -121,6 +121,78 @@
 
 60. **Promise**
 
+35. **Promises chaining**
+
+35. **Error handling with promises**
+
+35. **Promise API**
+
+35. **Promisification**
+
+35. **Microtasks and event loop**
+
+35. **Async/await**
+
+35. **Generators**
+
+35. **Async iterators and generators**
+
+35. **Modules, introduction**
+
+35. **Export and Import**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
+35. **Numbers**
+
 35. **Numbers**
 
 35. **Numbers**
