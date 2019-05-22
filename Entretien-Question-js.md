@@ -71,35 +71,35 @@
 
 35. **The old "var"**
 
-35. **Global object**
+36. **Global object**
 
-35. **Function object, NFE**
+37. **Function object, NFE**
 
-35. **The "new Function" syntax**
+38. **The "new Function" syntax**
 
-35. **Scheduling: setTimeout and setInterval**
+39. **Scheduling: setTimeout and setInterval**
 
-35. **Numbers**
+40. **Decorators and forwarding, call/apply**
 
-35. **Numbers**
+41. **Function binding**
 
-35. **Numbers**
+42. **Currying and partials**
 
-35. **Numbers**
+43. **Arrow functions revisited**
 
-35. **Numbers**
+44. **Property flags and descriptors**
 
-35. **Numbers**
+45. **Property getters and setters**
 
-35. **Numbers**
+46. **Prototypal inheritance**
 
-35. **Numbers**
+47. **F.prototype**
 
-35. **Numbers**
+48. **Native prototype**
 
-35. **Numbers**
+49. **Prototype methods, objects without__proto__**
 
-35. **Numbers**
+35. **Class basic syntax**
 
 35. **Numbers**
 
