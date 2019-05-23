@@ -5,14 +5,32 @@
   Le mode strict de Javascript est un mode rigoreuse plus que mode JS normal.
   Le mode Strict nous oblige à ecrire le code précisement, il trouvera des risque d'erreur qui est ignorée en mode normal.
 2. **Variable**
+  les variables nous permet stocker des value.
+  On déclare une variable avec des mot `let` , `const` , `var`.
 
 3. **Data types**
+  Il y a 7 types de data:
+  * String
+  * Number
+  * Boolean
+  * Undefined
+  * Null 
+  * Symbol
+  * Object
 
 4. **Type Conversions**
+  Il y a trois type de conversion :
+  * String
+  * Number
+  * Boolean
 
 5. **Operator**
+  Il y a 2 type d'operateur :
+  * Unaire : c'est l'operateur qui contient un operant
+  * Binaire : c'est l'operateur qui contient deux operant
 
 6. **Comparison**
+  Pour faire la comparison , js converti des types en number . Le resutas de la comparison est boolean type.
 
 7. **Interaction: alert, propmt, confirm.**
 
