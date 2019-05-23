@@ -2,7 +2,8 @@
 -------------------
 
 1. **The modern mode, "use strict"**
-
+  Le mode strict de Javascript est un mode rigoreuse plus que mode JS normal.
+  Le mode Strict nous oblige à ecrire le code précisement, il trouvera des risque d'erreur qui est ignorée en mode normal.
 2. **Variable**
 
 3. **Data types**
